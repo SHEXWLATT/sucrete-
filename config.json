@@ -1,16 +1,16 @@
 {
     "prefix": "+",
-    "botname": "HACK",
-    "support": "https://discord.gg/",
+    "botname": "HACK#6280",
+    "support": "https://discord.gg/UukYKsSA",
     "ghostping":  true,
     "ownerId": "824261211364393050",
     "ignore": [
         ""
     ],
     "developer_badge_user_id": [
-        ""
+        "824261211364393050"
     ],
     "staff_badge_user_id": [
-        ""
+        "824261211364393050"
     ]
 }
